@@ -1,5 +1,7 @@
 # 💳 Real-Time Fraud Detection System
 
+🚀 **Live Demo:** https://fraud-detection-api-xage.onrender.com/docs
+
 A production-ready Fraud Detection REST API built using **XGBoost** and **FastAPI**, designed to minimize **expected financial loss** instead of maximizing raw accuracy.
 
 This project demonstrates financial risk modeling, cost-sensitive machine learning, and cloud deployment.
@@ -146,4 +148,5 @@ Business-driven decision systems
 Soumyasree Mitra
 
 Aspiring Machine Learning Engineer
+
 
