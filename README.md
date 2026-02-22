@@ -112,7 +112,7 @@ Docker containers
 
 Swagger documentation available at:
 
-https://your-app-name.onrender.com/docs
+https://fraud-detection-api-xage.onrender.com/docs
 🛠 Tech Stack
 
 Python
@@ -148,6 +148,7 @@ Business-driven decision systems
 Soumyasree Mitra
 
 Aspiring Machine Learning Engineer
+
 
 
 
