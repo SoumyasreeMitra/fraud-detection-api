@@ -64,10 +64,15 @@ The system selects the action that minimizes expected financial loss.
 fraud-detection-system/
 │
 ├── data/ # Dataset (ignored in GitHub)
+
 ├── src/ # Preprocessing & training scripts
+
 ├── models/ # Saved model artifacts
+
 ├── app/ # FastAPI application
+
 ├── requirements.txt
+
 └── README.md
 
 
@@ -144,4 +149,5 @@ Business-driven decision systems
 👩‍💻 Author
 
 Soumyasree Mitra
+
 Aspiring Machine Learning Engineer
